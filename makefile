@@ -1,3 +1,5 @@
+#Papadakis Ioannis Titos, AM 5200, username csd5200
+
 #to onoma toy ektelesimoy
 exec = a.out
 

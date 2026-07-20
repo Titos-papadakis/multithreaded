@@ -3,6 +3,7 @@
 //
 // Name: Papadakis Ioannis Titos
 // AM: 5200
+// username: csd5200
 
 #include <stdio.h>
 #include <stdlib.h>

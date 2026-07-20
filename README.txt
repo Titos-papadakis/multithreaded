@@ -1,6 +1,6 @@
 HY-345 Operating Systems - Assignment 2
 Name: Papadakis Ioannis Titos
-AM: 5200
+AM: 5200, username: csd5200
 
 # perigrafi
 Prosomoiwsh leoforeioy pou pigainei foithtes apo th stash A (Xaniwporta) sth
